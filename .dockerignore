@@ -1,0 +1,9 @@
+Dockerfile
+LICENSE
+Makefile
+README.md
+.git
+.github
+.gitignore
+.dockerignore
+.history
