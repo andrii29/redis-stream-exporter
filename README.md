@@ -37,4 +37,7 @@ options:
 You can use `REDIS_URIS, SCAN_COUNT, SLEEP_INTERVAL, HTTP_PORT` environment variables to configure the exporter. If an environment variable is set, it takes precedence over the corresponding command-line argument.
 
 ### Inspiration
-Inspired by (chrnola/redis-streams-exporter)[https://github.com/chrnola/redis-streams-exporter/]
+Inspired by [chrnola/redis-streams-exporter](https://github.com/chrnola/redis-streams-exporter/)
+
+### Grafana Dashboard
+You can find example dashboard at id [21566](https://grafana.com/grafana/dashboards/21566)
